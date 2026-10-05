@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node tools/check.js",
+    "dev": "node tools/serve.js"
+  }
+}
