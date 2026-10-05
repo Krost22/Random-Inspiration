@@ -2,7 +2,7 @@
 
 **Una tragaperras de ideas para tu próximo proyecto.** Baja la palanca, giran cuatro rodillos y sale impresa en un ticket una idea de proyecto web, de Unity o de videojuego que tiene sentido.
 
-**▶ Pruébala: [krost22.github.io/RandomInspiration](https://krost22.github.io/RandomInspiration/)**
+**▶ Pruébala: [krost22.github.io/Random-Inspiration](https://krost22.github.io/Random-Inspiration/)**
 
 ![Random Inspiration: la máquina tragaperras con un ticket jackpot legendario](docs/screenshot.png)
 
@@ -117,3 +117,7 @@ Además, cada fragmento tiene que compartir al menos un modo con el **Qué**. De
 La web es estática y se sirve con **GitHub Pages** desde la rama `main`. Cualquier push a `main` la actualiza.
 
 El progreso (XP, colección, favoritas…) se guarda en el `localStorage` del navegador de cada persona: no hay cuentas ni servidor.
+
+## Licencia
+
+[MIT](LICENSE) © 2026 Eduardo De Jesús Mogollón Salcedo
